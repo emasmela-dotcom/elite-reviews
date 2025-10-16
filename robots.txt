@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://emasmela-dotcom.github.io/elite-reviews/sitemap.xml
